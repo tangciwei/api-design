@@ -1,0 +1,30 @@
+{
+  "name": "api-design",
+  "version": "0.0.2",
+  "description": "前端api请求解决方案",
+  "main": "dist/api-design.js",
+  "scripts": {
+    "build": "npx webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tangciwei/api-sdk.git"
+  },
+  "keywords": [
+    "api-design",
+    "api请求设计",
+    "api",
+    "前端api请求解决方案",
+    "api请求"
+  ],
+  "author": "tangciwei",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {}
+}

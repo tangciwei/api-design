@@ -1,6 +1,6 @@
 {
   "name": "api-design",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "前端api请求解决方案",
   "main": "dist/api-design.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tangciwei/api-sdk.git"
+    "url": "git+ssh://git@github.com/tangciwei/api-design.git"
   },
   "keywords": [
     "api-design",

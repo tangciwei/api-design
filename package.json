@@ -1,6 +1,6 @@
 {
   "name": "api-design",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "前端api请求解决方案",
   "main": "dist/api-design.js",
   "scripts": {

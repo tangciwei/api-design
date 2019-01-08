@@ -31,6 +31,7 @@ let {api, event} = apiDesign(
 );
 ```
 
+
 apiDesign入参说明
 - hooks: 生命周期钩子函数
 - config: 线上配置对象
